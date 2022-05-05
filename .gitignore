@@ -4,9 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-.eslintrc.json
-.prettierrc
-tailwind.config.js
+/.eslintrc.json
+/.prettierrc
+/tailwind.config.js
 
 # testing
 /coverage
